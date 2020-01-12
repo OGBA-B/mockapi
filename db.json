@@ -7,15 +7,7 @@
       "category": "cooking",
       "Due Date": "1-24-2020",
       "title": "Make me a biscuit"
-    },
-    {
-      "id": 2,
-      "assignee": "Oluchi",
-      "team": "Goats",
-      "category": "cooking",
-      "Due Date": "1-24-2020",
-      "title": "Make me a biscuit"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
